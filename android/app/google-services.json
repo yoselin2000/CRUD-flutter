@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458844546661",
+    "project_id": "pagina-boton",
+    "storage_bucket": "pagina-boton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458844546661:android:7738b2a43c9bd0ae2b488c",
+        "android_client_info": {
+          "package_name": "com.obvio.paginaboton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZpVACBCP7HwLPK_VErn4Y4L6vrCkYsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
